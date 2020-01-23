@@ -4,7 +4,7 @@
 
 ### Installation ###
 
-* `git clone https://github.com/bestmomo/laravel5-example.git projectname`
+* `git clone https://github.com/yousra-elghalb/test-2.git`
 * `cd projectname`
 * `composer install`
 * Create a database and inform *.env*
