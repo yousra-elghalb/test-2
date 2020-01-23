@@ -20,7 +20,11 @@
 ### Features ###
 
 * Course  (list, show, edit, delete, create)
+![alt text](https://github.com/yousra-elghalb/test-2/blob/master/c4.PNG)
 * Category  (list, show, edit, delete, create)
+![alt text](https://github.com/yousra-elghalb/test-2/blob/master/c1.PNG)
 * Localisation
+![alt text](https://github.com/yousra-elghalb/test-2/blob/master/c2.PNG)
+![alt text](https://github.com/yousra-elghalb/test-2/blob/master/c3.PNG)
 * Storage images
 
